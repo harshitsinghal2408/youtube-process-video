@@ -4,12 +4,12 @@ APIs that help in Getting the list and searching YouTube Videos.
 
 ## Getting Started
 
-Start by cloning the repository using: git clone https://github.com/akarsh2609/youtube-videos.git followed by cd
-youtube-videos.
+Start by cloning the repository using: git clone git@github.com:harshitsinghal2408/youtube-process-video.git 
+followed by cd youtube-process-video.
 
 ## Setup the API Keys for calling YouTube APIs
 
-[add your keys here](https://github.com/akarsh2609/youtube-videos/blob/d99fccbfc5961bff9227573a945dc664be15aacd/youtube_process_video/youtube_cron.py#L5)
+[add your keys here](https://github.com/harshitsinghal2408/youtube-process-video/blob/main/youtube_process_video/youtube_cron.py#L5)
 
 ## To run the application
 

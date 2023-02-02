@@ -43,8 +43,7 @@ INSTALLED_APPS = [
 CRONTAB_EXECUTABLE = '/usr/bin/crontab'
 
 CRONJOBS = [
-    ('*/10 * * * * * *', 'youtube_process_video.youtube_cron.youtube_cron',
-     '>> /Users/akarsh/Desktop/videos/youtube-videos/file.log')
+    ('*/10 * * * * * *', 'youtube_process_video.youtube_cron.youtube_cron')
 ]
 
 CRONTAB_COMMAND_SUFFIX = '2>&1'

@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 
 from youtube_process_video.models import YoutubeVideo
 
-DEVELOPER_KEY = ['AIzaSyAxprKX25j2swRx65jOLDS_uoddtfSydRs', 'key2']
+DEVELOPER_KEY = ['key1', 'key2']
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
